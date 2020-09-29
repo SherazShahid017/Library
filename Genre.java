@@ -1,0 +1,10 @@
+
+public enum Genre {
+	THRILLER,
+	HORROR,
+	FICTION,
+	NONFICTION,
+	SCIENCE,
+	AUTOB,
+	BIO;
+}
